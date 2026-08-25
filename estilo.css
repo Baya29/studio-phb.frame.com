@@ -105,7 +105,7 @@ nav {
 .hero {
     display: flex;
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.3)), url(Photo/PHOTO-2026-08-07-21-45-05.jpg)center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("Photo/PHOTO-2026-08-07-21-45-05.jpg") center/cover no-repeat;
     padding: 30px 40px 80px;
     align-items: center;
     gap: 40px;
@@ -532,49 +532,49 @@ ul {
 }
 
 .p1 {
-    background-image: url(Photo/IMG_2940.JPG);
+    background-image: url("Photo/IMG_2940.JPG");
 }
 
 .p2 {
-    background-image: url(Photo/IA\ SESSÕES\ \(29\).jpg);
+    background-image: url("Photo/IA\ SESSÕES\ \(29\).jpg");
 }
 
 .p3 {
-    background-image: url(Photo/IMG_2939.JPG);
+    background-image: url("Photo/IMG_2939.JPG");
 }
 
 .p4 {
-    background-image: url(Photo/BRIDE.jpg);
+    background-image: url("Photo/BRIDE.jpg");
 }
 
 .p5 {
-    background-image: url(Photo/liftapp\ \(11\).jpg);
+    background-image: url("Photo/liftapp\ \(11\).jpg");
 }
 
 .p6 {
-    background-image: url(Photo/estas\ \(88\).jpg);
+    background-image: url("Photo/estas\ \(88\).jpg");
 }
 .p7 {
-    background-image: url(Photo/Gravida1.JPG);
+    background-image: url("Photo/Gravida1.JPG");
 }
 
 .p8 {
-    background-image: url(Photo/Gravida2.jpg);
+    background-image: url("Photo/Gravida2.jpg");
 }
 
 .p9 {
-    background-image: url(Photo/Gravida3.jpg);
+    background-image: url("Photo/Gravida3.jpg");
 }
 .p10 {
-    background-image: url(Photo/Aniver1.jpg);
+    background-image: url("Photo/Aniver1.jpg");
 }
 
 .p11 {
-    background-image: url(Photo/Aniver3.jpg);
+    background-image: url("Photo/Aniver3.jpg");
 }
 
 .p12 {
-    background-image: url(Photo/Aniver2.png);
+    background-image: url("Photo/Aniver2.png");
 }
 .photo:hover {
     flex: 7;
