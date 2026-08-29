@@ -215,7 +215,8 @@ nav {
 
 .destaque {
     /* border: 2px red solid; */
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
     width: 40%;
     height: 500px;
     text-align: center;

@@ -52,6 +52,9 @@
     .map img {
         display: none;
     }
+    .caixa{
+        justify-content: center;
+    }
 }
 
 @media screen and (max-width:867px) {
