@@ -6,7 +6,9 @@
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
     font-family: "Roboto", sans-serif;
 }
@@ -40,7 +42,7 @@ header {
 nav {
     display: flex;
     /* border: 2px solid red; */
-    width: 60%;
+    width: 70%;
     height: 50px;
     justify-content: left;
 
@@ -49,6 +51,7 @@ nav {
 .navbar {
     display: flex;
     align-items: center;
+    
 
 }
 
@@ -65,7 +68,7 @@ nav {
 .pedir a {
     color: #0583F2;
     background-color: #25213A;
-    padding: 15px 30px 15px 15px;
+    padding: 7px 20px 7px 15px;
     border-radius: 15px;
     display: inline-block;
     transition: 0.9s;
@@ -366,7 +369,7 @@ ul {
 }
 
 .card_animacao {
-    /*  border: 2px red solid; */
+    /* border: 2px red solid;  */
     width: 98%;
     height: 350px;
     margin: 10px;

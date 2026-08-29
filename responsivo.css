@@ -1,0 +1,233 @@
+@media screen and (max-width:1620px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        height: 250px;
+        justify-content: center;
+        position: absolute;
+        z-index: 0;
+        padding: 0;
+
+
+    }
+
+    .lateral {
+        display: none;
+    }
+
+    .central {
+        width: 100%;
+        height: auto;
+    }
+
+    .card_animacao {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+
+    .section3 {
+        width: 100%;
+        height: auto;
+    }
+
+    .navbar {
+        width: 100%;
+        justify-content: center;
+
+    }
+
+    .section4 {
+        width: 100%;
+        height: auto;
+    }
+
+}
+
+@media screen and (max-width:700px) {
+    .legenda {
+        display: none;
+    }
+
+    .map img {
+        display: none;
+    }
+}
+
+@media screen and (max-width:867px) {
+
+    .portofolio {
+        display: none;
+    }
+
+    .infor {
+        width: 100%;
+        height: auto;
+        margin-left: 0;
+    }
+
+    .section6 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+
+    .perfil {
+        display: none;
+    }
+}
+
+@media screen and (max-width:980px) {
+
+    header {
+        display: flex;
+        flex-direction: row;
+        height: auto;
+        justify-content: space-around;
+        /* position: absolute; */
+        z-index: 99;
+        padding: 0;
+
+
+    }
+
+    .link {
+        display: none;
+    }
+
+    .navbar {
+        width: auto;
+
+    }
+}
+
+@media screen and (max-width:372px) {
+
+    header {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        justify-content: space-around;
+        position: absolute;
+        z-index: 0;
+        padding: 0;
+
+
+    }
+
+    .link {
+        display: none;
+    }
+
+    .navbar {
+        width: auto;
+
+    }
+}
+
+@media screen and (max-width:1215px) {
+    .paragrafo {
+        display: none;
+    }
+}
+
+@media screen and (max-width:1215px) {
+
+    header {
+        position: relative;
+        background: #fff;
+    }
+
+    .hero {
+        display: flex;
+        flex-direction: column;
+        height: 1200px;
+        z-index: 1;
+        justify-content: center;
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: auto;
+
+
+    }
+
+    .subtitulo p {
+
+        color: black;
+        font-weight: bolder;
+    }
+
+    .botoes {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 0;
+
+    }
+
+}
+
+@media screen and (max-width:640px) {
+    .subtitulo {
+        height: auto;
+        width: auto;
+    }
+
+    .titulo {
+        padding-top: 30px;
+        height: auto;
+        width: auto;
+    }
+}
+
+@media screen and (max-width:1650px) {
+    .footer_content {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .logrod {
+        margin: 0;
+        width: 100%;
+        align-items: center;
+    }
+
+    .servicos {
+        margin: 0;
+        width: 100%;
+    }
+
+    .contacto {
+        margin: 0;
+        width: 100%;
+    }
+
+    .pagment {
+        margin: 0;
+        width: 100%;
+    }
+
+    .direito {
+        margin: 0;
+        width: 100%;
+    }
+
+    .map  {
+        margin: 0;
+        width: 100%;
+        text-align: center;
+
+    }
+
+}
