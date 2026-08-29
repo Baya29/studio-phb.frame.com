@@ -53,7 +53,10 @@
         display: none;
     }
     .caixa{
-        justify-content: center;
+        display: none;
+    }
+    .baixo{
+        display: none;
     }
 }
 
