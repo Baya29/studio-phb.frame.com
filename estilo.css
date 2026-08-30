@@ -214,13 +214,14 @@ nav {
 }
 
 .destaque {
-    /* border: 2px red solid; */
+   /*  border: 2px red solid; */
     display: flex;
     flex-direction: column;
     width: 40%;
-    height: 500px;
+    height: 600px;
     text-align: center;
     padding: 20px;
+    align-items: center;
 }
 
 /* .paragrafo{
@@ -972,7 +973,7 @@ footer {
 
 }
 
-.map img {
+.mapfram {
     margin-top: 10px;
     width: 500px;
     height: 270px;
