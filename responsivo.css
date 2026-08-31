@@ -10,6 +10,9 @@
 
 
     }
+    .footer_content li{
+        font-size: 13px;
+    }
 
     .lateral {
         display: none;
@@ -20,11 +23,7 @@
         height: auto;
     }
 
-    .card_animacao {
-        flex-direction: column;
-        width: 100%;
-        height: auto;
-    }
+   
 
     .section3 {
         width: 100%;
@@ -43,8 +42,15 @@
     }
 
 }
-
+@media screen and (max-width:1200px) {
+ .card_animacao {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+}
 @media screen and (max-width:700px) {
+
     .legenda {
         display: none;
     }
@@ -132,9 +138,10 @@
     .paragrafo {
         display: none;
     }
+    
 }
 
-@media screen and (max-width:1215px) {
+@media screen and (max-width:1450px) {
 
     header {
         position: relative;
@@ -162,7 +169,7 @@
 
     .subtitulo p {
 
-        color: black;
+        color: #fff;
         font-weight: bolder;
     }
 
@@ -189,7 +196,7 @@
     }
 }
 
-@media screen and (max-width:1650px) {
+@media screen and (max-width:1200px) { 
     .footer_content {
         height: auto;
         display: flex;
