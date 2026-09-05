@@ -11,7 +11,12 @@
     :house: Principal<br>
     :fireworks: Serviços <br>
     :framed_picture: Portofólio<br>
-   - Sobre nós<br>
-   - Contactos
+    :exclamation: Sobre nós<br>
+    :telephone: Contactos
     </i>
   </p>
+
+<img src="https://github.com/Baya29/studio-phb.frame.com/blob/main/Photo/phone_pc.png" />
+
+
+<p><strong>Tecnologias usadas nesse projeto</strong></p>
