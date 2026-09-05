@@ -20,3 +20,8 @@
 
 
 <p><strong>Tecnologias usadas nesse projeto</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo_html"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Logo_css"/>
+</p>
